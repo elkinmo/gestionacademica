@@ -1,0 +1,1 @@
+base de datos datos tuplas sql usurio escalabilidad portabilidad,integridad,disponibilidad,campo,clave primaria,llave foranea
